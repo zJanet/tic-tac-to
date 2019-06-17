@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zJanet/tic-tac-to/static/css/main.0ebde3ef.chunk.css",
+    "main.js": "/zJanet/tic-tac-to/static/js/main.7c6e0642.chunk.js",
+    "main.js.map": "/zJanet/tic-tac-to/static/js/main.7c6e0642.chunk.js.map",
+    "runtime~main.js": "/zJanet/tic-tac-to/static/js/runtime~main.d4e99cad.js",
+    "runtime~main.js.map": "/zJanet/tic-tac-to/static/js/runtime~main.d4e99cad.js.map",
+    "static/js/2.0e3f6a1a.chunk.js": "/zJanet/tic-tac-to/static/js/2.0e3f6a1a.chunk.js",
+    "static/js/2.0e3f6a1a.chunk.js.map": "/zJanet/tic-tac-to/static/js/2.0e3f6a1a.chunk.js.map",
+    "index.html": "/zJanet/tic-tac-to/index.html",
+    "precache-manifest.f8d8f47cda2ccf75403e8086cb642f23.js": "/zJanet/tic-tac-to/precache-manifest.f8d8f47cda2ccf75403e8086cb642f23.js",
+    "service-worker.js": "/zJanet/tic-tac-to/service-worker.js",
+    "static/css/main.0ebde3ef.chunk.css.map": "/zJanet/tic-tac-to/static/css/main.0ebde3ef.chunk.css.map"
+  }
+}
